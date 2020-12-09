@@ -40,7 +40,7 @@ private enum BundleIdentifier {
 
 
 
-@main
+@NSApplicationMain
 final class AppDelegate: NSObject, NSApplicationDelegate {
     
     // MARK: Enums
